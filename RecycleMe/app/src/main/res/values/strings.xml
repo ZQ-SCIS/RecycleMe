@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RecycleMe</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="googlemapAPI">AIzaSyBKdPF1GGFUg-Um0q79pFXns3BpNidutSQ</string>
+
+</resources>
